@@ -140,6 +140,13 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Grafico.aspx" />
+    <Content Include="Grafico2.aspx" />
+    <Content Include="Grafico3.aspx" />
+    <Content Include="Grafico4.aspx" />
+    <Content Include="Grafico5.aspx" />
+    <Content Include="Grafico6.aspx" />
+    <Content Include="Grafico7.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -227,6 +234,55 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico.aspx.cs">
+      <DependentUpon>Grafico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico.aspx.designer.cs">
+      <DependentUpon>Grafico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico2.aspx.cs">
+      <DependentUpon>Grafico2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico2.aspx.designer.cs">
+      <DependentUpon>Grafico2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico3.aspx.cs">
+      <DependentUpon>Grafico3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico3.aspx.designer.cs">
+      <DependentUpon>Grafico3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico4.aspx.cs">
+      <DependentUpon>Grafico4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico4.aspx.designer.cs">
+      <DependentUpon>Grafico4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico5.aspx.cs">
+      <DependentUpon>Grafico5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico5.aspx.designer.cs">
+      <DependentUpon>Grafico5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico6.aspx.cs">
+      <DependentUpon>Grafico6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico6.aspx.designer.cs">
+      <DependentUpon>Grafico6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grafico7.aspx.cs">
+      <DependentUpon>Grafico7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grafico7.aspx.designer.cs">
+      <DependentUpon>Grafico7.aspx</DependentUpon>
     </Compile>
     <Compile Include="Infra\LoguinInfra.cs" />
     <Compile Include="Infra\UsuarioInfra.cs" />
